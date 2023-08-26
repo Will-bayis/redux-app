@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "La nature 🌴🌾",
+      "author": "Patrice",
+      "content": "La nature, vaste toile tissée par le temps, dévoile sa beauté éternelle à travers les montagnes majestueuses qui touchent le ciel, les rivières qui dansent avec grâce et les arbres qui chuchotent des secrets au vent. Chaque fleur épanouie est un poème silencieux, chaque lever de soleil une promesse renouvelée. Dans la nature, nous trouvons une symphonie apaisante qui réveille nos sens endormis et nous rappelle la simplicité magnifique de la vie. Il suffit de lever les yeux pour découvrir un monde où l'harmonie règne en maître et où chaque instant est une œuvre d'art intemporelle. 👀👌",
+      "id": "1",
+      "likes": 35
+    },
+    {
+      "title": "Le véhicule 🚘",
+      "author": "Sonia",
+      "content": "La voiture glissait sur la route telle une flèche d'argent, alliant puissance et élégance dans chaque virage. Les courbes fluides du design épousaient la technologie de pointe sous le capot, créant ainsi une expérience de conduite sans pareille. Chaque accélération était une montée d'adrénaline, transformant le simple trajet en une aventure palpitante. Dans cette voiture, la route devenait un chemin vers l'inconnu, promesse de liberté et de découvertes. 🐤",
+      "id": "2",
+      "likes": 17
+    },
+    {
+      "title": "Le roi de la savane 👑",
+      "author": "Denis",
+      "content": "Le lion se dressait avec une majesté indomptable au cœur de son royaume sauvage, sa crinière flottant tel un étendard de courage. Son regard perçant reflétait la sagesse accumulée à travers les âges, tandis que sa puissance silencieuse commandait le respect de toute la savane. Chasseur suprême et gardien vigilant, le lion incarnait la grâce féroce de la nature dans toute sa splendeur. 🖖",
+      "id": "3",
+      "likes": 119
+    },
+    {
+      "title": "Le progès ⚖🤖",
+      "author": "Will-bayis",
+      "content": "L'intelligence artificielle, fruit de l'ingéniosité humaine, transcende les frontières de la pensée traditionnelle, transformant lignes de code en possibilités infinies. Tel un esprit électronique, elle apprend, adapte et évolue, repoussant les limites de la compréhension et redéfinissant ce que nous pensions possible. Dans ses algorithmes se cache la promesse d'innovation radicale, mais aussi les questions éthiques qui nous invitent à naviguer avec précaution dans ce nouveau territoire du savoir. 💔🤞",
+      "id": "DfSiosH",
+      "likes": 57
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "Will-bayis",
+      "likes": 87,
+      "age": 29,
+      "id": 1
+    }
+  ]
+}
